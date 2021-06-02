@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "606904313781",
+    "firebase_url": "https://gingerly-app-default-rtdb.firebaseio.com",
+    "project_id": "gingerly-app",
+    "storage_bucket": "gingerly-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:606904313781:android:ba3b0f73a419663b5edbfc",
+        "android_client_info": {
+          "package_name": "com.example.gingerlychattingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "606904313781-2rgtmtmsj4pq13tn96oieiemqbp33tsd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAM5zNrHXNCDU8nXOgbbE84yFvchI5PQw0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "606904313781-2rgtmtmsj4pq13tn96oieiemqbp33tsd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
